@@ -2,22 +2,22 @@
 
 <br/>
 
-<a href="https://discordapp.com/users/199913047203119104">
+<a href="https://discordapp.com/users/199913047203119104" target="_blank">
   <img align="left" alt="DalexHD's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/DalexHDYT">
+<a href="https://twitter.com/DalexHDYT" target="_blank">
   <img align="left" alt="DalexHD's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/alex-borbolla/">
+<a href="https://www.linkedin.com/in/alex-borbolla/" target="_blank">
   <img align="left" alt="DalexHD's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/dalexhd">
+<a href="https://t.me/dalexhd" target="_blank">
   <img align="left" alt="DalexHD's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/borbolla99/">
+<a href="https://www.instagram.com/borbolla99/" target="_blank">
   <img align="left" alt="DalexHD's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/DalexHD/">
+<a href="https://www.reddit.com/user/DalexHD/" target="_blank">
   <img align="left" alt="DalexHD's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <br/>
