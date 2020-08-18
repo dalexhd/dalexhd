@@ -20,8 +20,8 @@
 <a href="https://www.reddit.com/user/DalexHD/">
   <img align="left" alt="DalexHD's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-
-<br />
+<br/>
+<br/>
 
 Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's school student who loves new JavaScript related technologies.
 
