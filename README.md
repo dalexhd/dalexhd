@@ -57,7 +57,7 @@ Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's s
 **Personal quote:**  
 Programming is not just for coding, it also changes your way of thinking when tackling problems or challenges in your life
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dalexhd&repo=SteamSpeak">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dalexhd&repo=SteamSpeak">
 
 ![DalexHD's github stats](https://github-readme-stats.vercel.app/api?username=dalexhd&show_icons=true&hide_border=true)
 
