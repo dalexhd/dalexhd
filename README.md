@@ -25,7 +25,7 @@
 
 Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's school student who loves new JavaScript related technologies.
 
-  <img align="right" alt="GIF" height="240" src="https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif" />
+ <img align="right" alt="GIF" height="240" src="https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
@@ -57,9 +57,14 @@ Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's s
 **Personal quote:**  
 Programming is not just for coding, it also changes your way of thinking when tackling problems or challenges in your life
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dalexhd&repo=SteamSpeak">
 
-![DalexHD's github stats](https://github-readme-stats.vercel.app/api?username=dalexhd&show_icons=true&hide_border=true)
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://badge42.herokuapp.com/api/stats/aborboll?privacyEmail=true" />
+    <img src="https://i.imgur.com/zJDK3q5.png" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexhd&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 
 <p align="center"> 
   Visitor count<br>
