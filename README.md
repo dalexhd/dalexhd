@@ -34,7 +34,7 @@ Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's s
 - 🌱 I’m currently learning C;
 - ⌨️ Spaces lover;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: eldalexhd@gmail.com;
+- 📫 How to reach me: contact@dalexhd.dev;
 
 **Languages and Tools:**  
 
