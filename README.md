@@ -29,7 +29,7 @@ Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's s
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [SteamSpeak](https://github.com/dalexhd/SteamSpeak);
+- 👨🏽‍💻 I’m currently working at [Softpoint](https://softpoint.es/);
 - 👨‍🎓 I'm currently a 42 school student;
 - 🌱 I’m currently learning C;
 - ⌨️ Spaces lover;
