@@ -70,6 +70,7 @@ Programming is not just for coding, it also changes your way of thinking when ta
   </div>
 </div>
 
+<hr>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dalexhd/count.svg" />
