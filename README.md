@@ -38,7 +38,7 @@ Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's s
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: contact@dalexhd.dev;
 
-**Languages and Tools I've used:**
+## Languages and Tools I've used:
 
 **Hosting/SaaS**
 
@@ -60,10 +60,8 @@ Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's s
 
 <img height="25" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"> <img height="25" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"> <img height="25" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"> <img height="25" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> <img aheight="25"  lt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img height="25"  alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/> <img height="25" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
-
-**Personal quote:**  
-Programming is not just for coding, it also changes your way of thinking when tackling problems or challenges in your life
-
+## Personal quote
+Programming is not just for coding, it also changes your way of thinking when tackling problems or challenges in your life.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
