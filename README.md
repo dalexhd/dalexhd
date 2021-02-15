@@ -27,7 +27,7 @@
 
 Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's school student who loves new JavaScript related technologies.
 
-<img align="right" alt="GIF" height="240" src="https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif" />
+<img align="right" alt="GIF" height="200" src="https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
