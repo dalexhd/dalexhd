@@ -65,7 +65,7 @@ Programming is not just for coding, it also changes your way of thinking when ta
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://badge42.herokuapp.com/api/stats/aborboll?privacyEmail=true" />
+    <img src="https://badge42.herokuapp.com/api/stats/aborboll?privacyEmail=true&darkmode=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexhd&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
 </div>
