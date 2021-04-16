@@ -1,22 +1,22 @@
 <div align="center">
 <h1>Hey 👋🏽, I'm DalexHD</h1>
 <br/>
-<a href="https://discordapp.com/users/199913047203119104" target="_blank">
+<a href="https://discordapp.com/users/199913047203119104" target="_blank" rel="noopener noreferrer">
   <img alt="DalexHD's Discord" src="https://img.shields.io/badge/DalexHD%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://twitter.com/DalexHDYT" target="_blank">
+<a href="https://twitter.com/DalexHDYT" target="_blank" rel="noopener noreferrer">
   <img alt="DalexHD's Twitter" src="https://img.shields.io/badge/DalexHD%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/alex-borbolla/" target="_blank">
+<a href="https://www.linkedin.com/in/alex-borbolla/" target="_blank" rel="noopener noreferrer">
   <img alt="DalexHD's LinkdeIN" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://t.me/dalexhd" target="_blank">
+<a href="https://t.me/dalexhd" target="_blank" rel="noopener noreferrer">
   <img alt="DalexHD's Telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/borbolla99/" target="_blank">
+<a href="https://www.instagram.com/borbolla99/" target="_blank" rel="noopener noreferrer">
   <img alt="DalexHD's Instagram"  src="https://img.shields.io/badge/borbolla99%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a href="https://www.reddit.com/user/DalexHD/" target="_blank">
+<a href="https://www.reddit.com/user/DalexHD/" target="_blank" rel="noopener noreferrer">
   <img alt="DalexHD's Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 </div>
