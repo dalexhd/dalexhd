@@ -31,7 +31,7 @@ Hi, I'm DalexHD, a Full Stack Developer 🚀 from Spain, currently, I'm a 42's s
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working at [Softpoint](https://softpoint.es/en/);
+- 👨🏽‍💻 I’m currently working at [Shopigurus](https://www.shopigurus.com/);
 - 👨‍🎓 I’m currently studying Computer Science at 42 school;
 - 🌱 I’m currently learning C;
 - ⌨️ I love spaces and tabs;
